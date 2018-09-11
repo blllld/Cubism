@@ -37,7 +37,7 @@
 现在，**cubism** 处于萌芽状态，需要您的加入，如果你也想参与进来，请联系
 ### 联系方式
 
-*@mail* : `do_ng_hui@sina.cn`
+*@mail* : `do_ng_hui@163.com`
 *@wechat* : `do_ng_hui`
 
 以上均 备注 `cubism` 即可。
